@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Spaceship go boom!
+# email: random.j.farmer (AT) gmail DOT com
+description: > # this means to ignore newlines until "baseurl:"
+  Exploding spaceships. Nasty bugs. Ventures.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://random-j-farmer.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  random-j-farmer
+
+# Build settings
+markdown: kramdown
