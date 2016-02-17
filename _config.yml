@@ -17,3 +17,6 @@ github_username:  random-j-farmer
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
