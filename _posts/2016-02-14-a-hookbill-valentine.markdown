@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Hookbill Valentine"
+comments: true
 date:   2016-02-14 21:30:00 +0100
 tags: 
  - solo 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Moar Functions"
+comments: true
 date:   2016-02-20 18:05:00 +0100
 tags: 
  - scala

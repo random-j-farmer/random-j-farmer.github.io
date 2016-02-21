@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My favorite kill"
+comments: true
 date:   2016-02-13 17:30:00 +0100
 tags: 
  - solo 

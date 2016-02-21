@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First Solo Kill"
+comments: true
 date:   2016-02-15 22:55:00 +0100
 tags: 
  - solo 

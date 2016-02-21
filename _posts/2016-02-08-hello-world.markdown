@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
+comments: true
 date:   2016-02-08 23:29:33 +0100
 ---
 Nobody really knows who started this tradition, but it is the custom

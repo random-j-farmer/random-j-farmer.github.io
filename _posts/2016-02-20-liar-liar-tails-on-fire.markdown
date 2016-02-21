@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Liar, Liar, Tails on Fire"
+comments: true
 date:   2016-02-20 22:00:00 +0100
 tags: 
  - solo 

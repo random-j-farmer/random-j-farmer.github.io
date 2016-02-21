@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fed Nayv Comet Stronk!"
+comments: true
 date:   2016-02-10 22:05:00 +0100
 tags: 
  - solo 
