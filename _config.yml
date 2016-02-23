@@ -11,7 +11,7 @@ title: Spaceship go boom!
 description: > # this means to ignore newlines until "baseurl:"
   Exploding spaceships. Nasty bugs. Ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://random-j-farmer.github.io" # the base hostname & protocol for your site
+url: "https://random-j-farmer.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  random-j-farmer
 
