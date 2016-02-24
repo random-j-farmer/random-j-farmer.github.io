@@ -252,7 +252,7 @@
         display: inline-block;
         margin: 0 12px 12px 0; 
     }
-    }
+}
 #archives {
     padding: 5px;
 }
@@ -264,5 +264,6 @@
     margin-left: 5px;
 }
 .post-tags {
+    float: right;
     text-align: right;
 }
