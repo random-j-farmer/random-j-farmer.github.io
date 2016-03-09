@@ -7,6 +7,13 @@ tags:
  - crest
 ---
 
+Edit: This has been fixed, you can revoke access you granted now.
+
+---------------------------------------------
+
+The original post was:
+
+
 > TL;DR
 >
 > CREST refresh tokens do NOT currently have any expiration.  If you grant "characterLocationRead"
