@@ -6,6 +6,7 @@ date:   2016-03-10 20:05:00 +0100
 tags: 
  - solo
  - manjonakko
+ - cap
 ---
 A fed nayv comet is waiting at the plex.  I have Nova loaded.  This one does not try to pull away.
 I manage to stay 3km to 4km off.  For some reason my auto attack drones do not actually attack
