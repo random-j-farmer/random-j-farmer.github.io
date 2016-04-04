@@ -9,7 +9,7 @@ tags:
 ---
 I did not pay attention to the null sec shenigans until a couple of weeks ago.  Sanders
 Schmittlaub from A Band Apart started to organise an optional deployment to
-the OSS staging system.  I went there, but those fleets were a bit too shiny for me,
+the OSS staging system.  I went there, but those fleets were too shiny for me,
 so mostly I was scanning for wormhole connections.
 
 ![Scanning ...](/img/2016-04-04-scanning-wormholes.jpg "Scanning wormholes ...")
@@ -19,14 +19,13 @@ in Jita.  I forgot about my security status ...
 
 ![Caldari Navy Brutality](/img/2016-04-04-caldari-navy-brutality.jpg "Caldari Navy Brutality")
 
+I don't mind a bit of scanning, but this looked like it might become one of EVE's big wars,
+and I wanted to have some kills to remember it by.  So I joined Pandemic Horde again.
 
-I don't mind a bit of scanning, but this looked it might become one of EVE's big wars,
-and I wanted to have some kills to point at.  I joined Pandemic Horde again.
-
-And yesterday evening I found myself in my biggest fleet so far (240 people?  I think we were 240
-at the start - although that might have been mumble, there were 2 horde fleets).  We laid
-siege to the SMA station in O1Y-ED, preventing SMA to undock in anything but Interceptors.
-This gave our second fleet the opportunity to entosis everything in sight.
+And yesterday evening I found myself in the biggest fleet I've ever been in (240 people?  I think we were 240
+at the start - although that might have been mumble).  We laid siege to the SMA station in O1Y-ED, 
+preventing SMA from undocking in anything but Interceptors.  This gave our second fleet the opportunity 
+to entosis everything in sight.
 
 I did not get on a lot of kills, my killwhoring drones were killed by a bomb run
 almost immediately after I launched them.  This left me trying to lock targets
