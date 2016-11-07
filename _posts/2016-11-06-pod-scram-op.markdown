@@ -2,7 +2,7 @@
 layout: post
 title:  "Pod Scram OP"
 comments: true
-date:   2016-10-07 17:00:00 +0200
+date:   2016-11-06 17:00:00 +0200
 tags: 
  - solo
  - korasen
