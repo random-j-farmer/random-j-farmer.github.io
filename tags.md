@@ -1,7 +1,7 @@
 ---
-layout: tags
-title: Tags
+layout:    tags
+title:     Tags
 permalink: /tags/
-sitemap: false
+sitemap:   false
 no_header: true
 ---
