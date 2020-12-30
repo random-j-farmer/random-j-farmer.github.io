@@ -258,6 +258,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-remote-theme (~> 0.4.2)
+  jekyll-sitemap (~> 1.4.0)
 
 BUNDLED WITH
    2.2.3

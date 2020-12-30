@@ -1,27 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Spaceship go boom!
-# email: random.j.farmer (AT) gmail DOT com
 description: > # this means to ignore newlines until "baseurl:"
-  Exploding spaceships. Nasty bugs. Ventures.
+  In which the Intrepid Hero experiences Trials and Tribulations
+  around Ishomilken, among them but not exlusively Exploding Spaceships,
+  Nasty bugs, Funny Programming Jokes, and Ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://random-j-farmer.github.io" # the base hostname & protocol for your site
 
 author: 
   name: Random J. Farmer
-  # no thx to spam email
+  email: random.j.farmer (AT) gmail DOT com
 
 remote_theme: random-j-farmer/tagged-minima
-
-header_pages:
- - about.md
- - decloaking-simulator.md
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -32,9 +21,13 @@ minima:
   social_links:
     # twitter: jekyllrb
     github:  random-j-farmer
+    discord: 
+      name: "Random J Farmer#8197"
+      id: 225720541057646592
 
 # Build settings
 markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Decloaking Simulator
+layout:    page
+title:     Decloaking Simulator
 permalink: /decloaking-simulator/
+date:      2016-04-24 17:00:00 +0200
 ---
 
 Visualization of decloaking probabilities for various ship sizes, velocities and angles.
